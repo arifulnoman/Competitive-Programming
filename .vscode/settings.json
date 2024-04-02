@@ -14,6 +14,7 @@
         "valarray": "cpp",
         "random": "cpp",
         "ratio": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "cstdlib": "cpp"
     }
 }
